@@ -1,6 +1,6 @@
 # BDF Lab 1 – Node.js and Express Server
 
-**Deployment URL:** https://bdf-lab-01-4aw2.onrender.com
+**Deployment URL:** https://bdf-shivanath-lab1.onrender.com
 ## Student Details
 
 - **Name:** Bairi Shivanath
@@ -73,7 +73,7 @@ The `package-lock.json` file records the exact dependency versions used for inst
 1. Clone the GitHub repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/nathshiva451-afk/BDF-Shivanath/tree/main/lab-01
    ```
 
 2. Navigate to the Lab 1 folder:
@@ -137,7 +137,7 @@ The following endpoints are provided by the Express server.
 
 The Express application is deployed using Render.
 
-**Public Deployment URL:** 
+**Public Deployment URL:** https://bdf-shivanath-lab1.onrender.com
 
 The deployed application can be opened in a web browser. The individual endpoints should also be tested using the public URL.
 

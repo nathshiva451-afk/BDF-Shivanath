@@ -73,7 +73,7 @@ The `package-lock.json` file records the exact dependency versions used for inst
 1. Clone the GitHub repository:
 
    ```bash
-   git clone https://github.com/nathshiva451-afk/BDF-Shivanath/tree/main/lab-01
+   git clone https://github.com/nathshiva451-afk/BDF-Shivanath.git
    ```
 
 2. Navigate to the Lab 1 folder:

@@ -79,7 +79,7 @@ The `package-lock.json` file records the exact dependency versions used for inst
 2. Navigate to the Lab 1 folder:
 
    ```bash
-   cd AdepuMeghana/lab-01
+   /Users/bairishivana/Downloads/BDF/lab-01
    ```
 
 3. Install the required dependencies:
